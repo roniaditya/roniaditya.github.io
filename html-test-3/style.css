@@ -1,0 +1,220 @@
+body {
+   margin: 0;
+  padding: 0;
+  background-image: url("http://supernovathemes.com/wp-content/themes/supernovathemes/images/bg/b3.png");
+}
+
+#wrapper {
+  width: 960px;
+  margin: auto;
+  background-color: #e5e5e5;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+#header {
+  width:960px;
+  height:300px;
+  margin:0;
+  background-image: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/buildings-skyscrapers/modern-buildings-website-header.jpg);
+  }
+
+.col-logo {
+  width:960px;
+  height:auto;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#logo{
+  width:300px;
+  height:auto;
+  text-align: left;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color: white;
+}
+
+h6{
+  margin: 0;
+  font-size: 15px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.col-menu{
+  width:auto;
+  height:auto;
+  margin-top: 130px;
+  border-bottom: 10px #595858 solid;
+}
+
+ul#menu{
+  width:920px;
+  height:40px;
+  background-color: black;
+  opacity: 0.8;
+  text-align: left;
+  list-style: none;
+  margin: 0;
+}
+
+ul#menu > li {
+  display: inline;
+  margin-left:85px;
+}
+
+ul#menu > li:first-child {
+  margin-left:0;
+}
+
+ul#menu > li > a {
+  color: #fcfcfc;
+  text-decoration: none;
+   font-size: 20px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.isi-menu{
+  font-size: 20px;
+  color:white;
+  text-align: center;
+}
+
+#content{
+  width: 900px;
+  margin-top:80px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color:#e5e5e5;
+}
+
+.col-full{
+  width:900px;
+  height:auto;
+}
+
+#content-1{
+  font-family: 'Ubuntu', sans-serif;
+  color: #636363;
+}
+
+#content-2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#content-3{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.col-250{
+  width:200px;
+  height: 300px;
+  background-color: #294f31;
+}
+
+h3{
+  font-size: 16px;
+  text-align: center;
+  margin:0;
+  padding: 0;
+  color: #636363;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+#content-4{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 360px;
+  margin-right: 360px;
+}
+
+.page{
+  margin-top: 5px;
+  color: #e8e8e8;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  }
+
+.col-40{
+  width:35px;
+  height:35px;
+  background-color: #383838;
+  border-radius: 5px;
+}
+
+#content-5{
+  margin-top: 50px;
+
+}
+
+.col-900{
+  margin: 0;
+  padding: 0;
+  width:900px;
+  height:300px;
+  margin-bottom: 30px;
+}
+
+#col-pic{
+  margin-left: 20px;
+  width:200px;
+  height: 200px;
+  margin-top: 50px;
+}
+
+.col-300{
+  margin: 0;
+width:300px;
+
+}
+
+.col-600{
+  margin: 0;
+width:600px;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    color: #636363;
+    margin-top: 10px;
+}
+
+h2{
+    font-size: 20px;
+    text-align: left;
+    margin:0;
+    padding: 0;
+    color: #636363;
+    font-family: 'Itim', cursive;
+}
+
+#footer{
+  width:960px;
+  background-image: url("http://supernovathemes.com/wp-content/themes/supernovathemes/images/bg/b3.png");
+}
+
+.isi-footer{
+  height: 40px;
+  background-color: black;
+  opacity: 0.7;
+  color:white;
+  
+}
+
+#text{
+  padding: 10px;
+  height:30px;
+  position: center;
+   font-family: 'Courgette', cursive;
+  font-size: 15px;
+  text-align: center;
+}
+
