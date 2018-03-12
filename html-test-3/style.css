@@ -1,7 +1,7 @@
 body {
    margin: 0;
   padding: 0;
-  background-image: url("http://supernovathemes.com/wp-content/themes/supernovathemes/images/bg/b3.png");
+  background-image: url("img/b3.png");
 }
 
 #wrapper {
@@ -198,7 +198,7 @@ h2{
 
 #footer{
   width:960px;
-  background-image: url("http://supernovathemes.com/wp-content/themes/supernovathemes/images/bg/b3.png");
+  background-image: url("img/b3.png");
 }
 
 .isi-footer{
